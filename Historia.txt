@@ -1,6 +1,3 @@
 Buenas, estoy aprendiendo a usar
 
-GIT
-y depaso 
-
-GITHUB
+GIT y GITHUB
